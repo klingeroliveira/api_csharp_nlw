@@ -1,0 +1,11 @@
+C:\Cursos\Rocketseat\nlw\c#\PassIn\PassIn.Communication\bin\Debug\net8.0\PassIn.Communication.deps.json
+C:\Cursos\Rocketseat\nlw\c#\PassIn\PassIn.Communication\bin\Debug\net8.0\PassIn.Communication.dll
+C:\Cursos\Rocketseat\nlw\c#\PassIn\PassIn.Communication\bin\Debug\net8.0\PassIn.Communication.pdb
+C:\Cursos\Rocketseat\nlw\c#\PassIn\PassIn.Communication\obj\Debug\net8.0\PassIn.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Rocketseat\nlw\c#\PassIn\PassIn.Communication\obj\Debug\net8.0\PassIn.Communication.AssemblyInfoInputs.cache
+C:\Cursos\Rocketseat\nlw\c#\PassIn\PassIn.Communication\obj\Debug\net8.0\PassIn.Communication.AssemblyInfo.cs
+C:\Cursos\Rocketseat\nlw\c#\PassIn\PassIn.Communication\obj\Debug\net8.0\PassIn.Communication.csproj.CoreCompileInputs.cache
+C:\Cursos\Rocketseat\nlw\c#\PassIn\PassIn.Communication\obj\Debug\net8.0\PassIn.Communication.dll
+C:\Cursos\Rocketseat\nlw\c#\PassIn\PassIn.Communication\obj\Debug\net8.0\refint\PassIn.Communication.dll
+C:\Cursos\Rocketseat\nlw\c#\PassIn\PassIn.Communication\obj\Debug\net8.0\PassIn.Communication.pdb
+C:\Cursos\Rocketseat\nlw\c#\PassIn\PassIn.Communication\obj\Debug\net8.0\ref\PassIn.Communication.dll
